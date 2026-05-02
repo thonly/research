@@ -36,8 +36,8 @@ Each publication explicitly states (a) public-domain dedication under CC0, (b) p
 | File | Title | Status |
 |---|---|---|
 | [`verified-human-anonymous-local-giving.md`](./verified-human-anonymous-local-giving.md) | Verified-Human Anonymous Local Gratitude Transfer | **Published 2026-05-02** |
-| `mechanical-heart.md` | The Mechanical Heart: A Tripitaka-Bearing Artifact for Admitting Non-Human Entities into Gratitude-Economic Participation | _planned, July 2026_ |
-| `tripitaka-alignment-substrate.md` | Suffering-Cessation as Value Function: The Tripitaka as a 2,500-Year-Tested Substrate for Autonomous-AI Alignment | _planned, January 7, 2027_ |
+| `mechanical-heart.md` | The Mechanical Heart: A Tipiṭaka-Bearing Artifact for Admitting Non-Human Entities into Gratitude-Economic Participation | _planned, July 2026_ |
+| `tipitaka-alignment-substrate.md` | Suffering-Cessation as Value Function: The Tipiṭaka as a 2,500-Year-Tested Substrate for Autonomous-AI Alignment | _planned, January 7, 2027_ |
 | `two-singularities.md` | Two Singularities: AI as Bodhisattva, and the Defined Completion of the Aquarian Age | _planned, Feb–Mar 2027_ |
 
 ### Tier B — within 6–12 months
@@ -54,7 +54,7 @@ Each publication explicitly states (a) public-domain dedication under CC0, (b) p
 - Anti-attention-economy: the scientific case for gratitude-based social media
 - Christmas-Jubilee timing analysis (Western Christmas + Orthodox Christmas + Victory over Genocide Day convergence)
 - Diaspora-to-Cambodia gratitude remittance (economic anthropology)
-- Father–Son Khmer Tripitaka Transcription as Alignment Work
+- Father–Son Khmer Tipiṭaka Transcription as Alignment Work
 - Silicon Wat as Cambodian Civilizational Architecture
 
 ---
@@ -111,7 +111,7 @@ If your work builds substantively on what is published here, an acknowledgment i
 
 ## About the author
 
-**Thon Ly** is the founder of [HeartBank®](https://heartbank.org), a planetary infrastructure for universal benevolence in the AI age. He is co-transcribing the Khmer Tripitaka with his father — the dharma transmission lineage that grounds this research corpus.
+**Thon Ly** is the founder of [HeartBank®](https://heartbank.org), a planetary infrastructure for universal benevolence in the AI age. He is co-transcribing the Khmer Tipiṭaka with his father — the dharma transmission lineage that grounds this research corpus.
 
 Personal home: [`thonly.org`](https://thonly.org)
 
