@@ -41,6 +41,8 @@ Mainstream discourse about the technological singularity offers two endings: uto
 
 The seventh idea is the methodological frame in which this entire note and its companion treatment should be read.
 
+**Connection to the unified mission frame.** This contribution is offered in service of HeartBank's canonical top-level mission: to restore humanity to the middle way (*madhyamā pratipad*) — the optimal condition for awakening that modernity has systematically pushed away from at population scale. The defensible thesis is not that modernity took us away from a middle-way past (which would romanticize pre-industrial conditions where many lived in suffering-extreme poverty); the defensible thesis is that modernity introduces a specific new failure mode — comfort-saturation — that pushes the materially comfortable toward the indulgence extreme at unprecedented scale. The cautionary-mirror trajectory articulated in this note *is* precisely that failure mode dramatized. *The Age of Capricorn* shows what happens if humanity is allowed to saturate into the indulgence extreme without intervention; restoration to the middle way is what HeartBank's operational program (the cautionary mirror's pair) is designed to enable. The seven underlying ideas are each specific contributions to that restoration. Restoration involves dialing back specifically the comfort-saturation extreme; this paper is one contribution among several specified across the corpus toward that goal.
+
 ---
 
 ## I · The Cautionary-Mirror Framing of the Singularity

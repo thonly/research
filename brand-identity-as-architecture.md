@@ -64,6 +64,8 @@ The four innovations are: *(I)* a bistable rotated-shape logo (the B-heart, a un
 
 The composition is the contribution. Each innovation alone has prior art (FedEx arrow for bistable logos, Apple "i" for product prefixes, motion marks generally for animated logos, color-state-coding in interface design); the integrated architecture composing all four into a coherent system with mutually reinforcing properties is novel. The paper specifies the four innovations, the analytical argument for why they compose into a moat, cross-domain portability, implementation patterns, edge cases including counterfeit analysis, and honest limitations.
 
+**Connection to the unified mission frame.** This architecture is offered in service of HeartBank's canonical top-level mission: to restore humanity to the middle way (*madhyamā pratipad*) — the optimal condition for awakening that modernity has systematically pushed away from at population scale. The brand identity carries the mission semiotically: each design choice serves the mission frame. The heartbeat-animation-as-POH signal makes humanity continuously verifiable in a context where the comfort-saturation failure mode includes loss of human agency; the aura-color cross-currency primitive carries individual identity across kiitos and kiitti without commodification; the bistable B-heart and B-prefix naming convention preserve institutional coherence across the multi-decade timescale at which middle-way restoration must operate. The entire architecture supports the dignity that middle-way practice requires.
+
 ---
 
 ## 1 · Introduction
