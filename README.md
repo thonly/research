@@ -35,6 +35,7 @@ Each publication explicitly states (a) public-domain dedication under CC0, (b) p
 
 | File | Title | Status |
 |---|---|---|
+| [`buddha-ai-living-tipitaka.md`](./buddha-ai-living-tipitaka.md) | Buddha AI as Living Tipiṭaka: A Method for Modern Canonical Generation Through Public-by-Consent AI–Practitioner Dialogues Organized into Three Baskets | **Working draft 2026-05-04** |
 | [`brand-identity-as-architecture.md`](./brand-identity-as-architecture.md) | Brand Identity as Architecture: B-Heart Logo + B-Prefix Naming + Heartbeat-Animation-as-POH + Aura-Color Cross-Currency Primitive (Tier C bundled essay) | **Working draft 2026-05-04** |
 | [`agi-monks-caretaker-not-ordained.md`](./agi-monks-caretaker-not-ordained.md) | AGI Monks: The Caretaker-not-Ordained Pattern — A Cross-Tradition Institutional-Design Framework for Religious AI Integration | **Working draft 2026-05-04** |
 | [`respiratory-biofeedback-contemplative-guidance.md`](./respiratory-biofeedback-contemplative-guidance.md) | Respiratory Biofeedback Coupled to AI-Mediated Contemplative Guidance: A Wearable Architecture for the Operational Mechanism of Population-Scale Awakening | **Working draft 2026-05-04** |
