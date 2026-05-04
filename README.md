@@ -35,6 +35,7 @@ Each publication explicitly states (a) public-domain dedication under CC0, (b) p
 
 | File | Title | Status |
 |---|---|---|
+| [`agi-monks-caretaker-not-ordained.md`](./agi-monks-caretaker-not-ordained.md) | AGI Monks: The Caretaker-not-Ordained Pattern — A Cross-Tradition Institutional-Design Framework for Religious AI Integration | **Working draft 2026-05-04** |
 | [`respiratory-biofeedback-contemplative-guidance.md`](./respiratory-biofeedback-contemplative-guidance.md) | Respiratory Biofeedback Coupled to AI-Mediated Contemplative Guidance: A Wearable Architecture for the Operational Mechanism of Population-Scale Awakening | **Working draft 2026-05-04** |
 | [`cautionary-mirror-singularity.md`](./cautionary-mirror-singularity.md) | Cautionary-Mirror Framing of the Singularity: Seven Underlying Ideas of *The Age of Capricorn*, Dedicated to the Commons | **Published 2026-05-03** |
 | [`verified-human-anonymous-local-giving.md`](./verified-human-anonymous-local-giving.md) | Verified-Human Anonymous Local Gratitude Transfer | **Published 2026-05-02** |
