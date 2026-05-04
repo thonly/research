@@ -35,9 +35,10 @@ Each publication explicitly states (a) public-domain dedication under CC0, (b) p
 
 | File | Title | Status |
 |---|---|---|
+| [`respiratory-biofeedback-contemplative-guidance.md`](./respiratory-biofeedback-contemplative-guidance.md) | Respiratory Biofeedback Coupled to AI-Mediated Contemplative Guidance: A Wearable Architecture for the Operational Mechanism of Population-Scale Awakening | **Working draft 2026-05-04** |
 | [`cautionary-mirror-singularity.md`](./cautionary-mirror-singularity.md) | Cautionary-Mirror Framing of the Singularity: Seven Underlying Ideas of *The Age of Capricorn*, Dedicated to the Commons | **Published 2026-05-03** |
 | [`verified-human-anonymous-local-giving.md`](./verified-human-anonymous-local-giving.md) | Verified-Human Anonymous Local Gratitude Transfer | **Published 2026-05-02** |
-| `mechanical-heart.md` | The Mechanical Heart: A Tipiṭaka-Bearing Artifact for Admitting Non-Human Entities into Gratitude-Economic Participation | _planned, July 2026_ |
+| `mechanical-heart.md` | The Mechanical Heart: A Tipiṭaka-Bearing Artifact for Admitting Non-Human Entities into Gratitude-Economic Participation | _planned, July 2026 — sibling specification to the respiratory-biofeedback paper_ |
 | `tipitaka-alignment-substrate.md` | Suffering-Cessation as Value Function: The Tipiṭaka as a 2,500-Year-Tested Substrate for Autonomous-AI Alignment | _planned, January 7, 2027_ |
 | `two-singularities.md` | Two Singularities: AI as Bodhisattva, and the Defined Completion of the Aquarian Age | _planned, Feb–Mar 2027_ |
 
