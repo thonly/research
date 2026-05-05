@@ -116,11 +116,11 @@ If your work builds substantively on what is published here, an acknowledgment i
 
 ## About the author
 
-**Thon Ly** is the founder of [HeartBank®](https://heartbank.org), a planetary infrastructure for universal benevolence in the AI age. He is co-transcribing the Khmer Tipiṭaka with his father — the dharma transmission lineage that grounds this research corpus.
+**Thon Ly** is the founder of [HeartBank®](https://heartbank.com), a planetary infrastructure for universal benevolence in the AI age. He is co-transcribing the Khmer Tipiṭaka with his father — the dharma transmission lineage that grounds this research corpus.
 
 Personal home: [`thonly.org`](https://thonly.org)
 
-The work in this repository is positioned across three converging fields: AI alignment, digital-payment design, and post-singularity philosophy. The cross-field combination is not coincidental; it follows from a single integrated vision laid out at heartbank.org.
+The work in this repository is positioned across three converging fields: AI alignment, digital-payment design, and post-singularity philosophy. The cross-field combination is not coincidental; it follows from a single integrated vision laid out at heartbank.net.
 
 ---
 
