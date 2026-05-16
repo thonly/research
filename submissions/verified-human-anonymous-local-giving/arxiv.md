@@ -22,7 +22,7 @@ Verified-Human Anonymous Local Gratitude Transfer: A Defensive Publication
 Thon Ly (HeartBank®)
 ```
 
-If arXiv requires an institutional email for endorsement, use a `thonly.org` or `heartbank.org` address. arXiv requires endorsement for first-time submitters in `cs.CR` — request endorsement through the arXiv "endorsement request" form citing this paper's defensive-publication purpose; alignment-research or cryptography colleagues can serve as endorsers.
+If arXiv requires an institutional email for endorsement, use a `thonly.org` or `heartbank.net` address. arXiv requires endorsement for first-time submitters in `cs.CR` — request endorsement through the arXiv "endorsement request" form citing this paper's defensive-publication purpose; alignment-research or cryptography colleagues can serve as endorsers.
 
 ### Primary category
 

@@ -22,7 +22,7 @@ Verified-Human Anonymous Local Gratitude Transfer: A Combined Mechanism for Bot-
 
 ```
 Thon Ly
-HeartBank® (heartbank.org)
+HeartBank® (heartbank.net)
 Kâmpôt, Cambodia
 Contact: research@thonly.org
 ```
